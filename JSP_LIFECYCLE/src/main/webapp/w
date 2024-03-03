@@ -1,0 +1,13 @@
+Object in JSP:-
+
+                                               SCOPE
+
+1.request       HTTPSevletRequest               request
+2.response     	HTTPSevletResponse              request
+3.session       HTTPSession                     session
+4.out           JSPWriter                       page
+5.config        ServletConfig                   page
+6.application   ServletContext                  application
+7.page			Object							page
+8.pageContext   Object
+9.exception     Throwable                       page
